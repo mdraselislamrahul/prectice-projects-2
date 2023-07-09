@@ -1,0 +1,32 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.main-header {
+    background-image: url(./Image/banner3.png);
+    height: 800px;
+    text-align: right;
+    background-position: bottom center;
+}
+
+.chilled-header {
+    display: inline-block;
+    max-width: 400px;
+    padding: 150px;
+}
+
+.chilled-header h1 {
+    color: aliceblue;
+    font-size: 50px;
+}
+
+.chilled-header p {
+    color: aliceblue;
+}
+
+.chilled-header button {
+    color: #1E90FF;
+    padding: 15px 25px;
+    font-size: 16px;
+    margin-top: 20px;
+}
